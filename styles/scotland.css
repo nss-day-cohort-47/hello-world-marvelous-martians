@@ -5,11 +5,14 @@
 }
 
 .country-box {
-    justify-self: center;
+    
 }
 
-logo {
-    box-sizing: border-box;
+.logo {
+    display: block;
+    margin-left: 0;
+    margin-right: auto;
+    width: 250px;
 }
 
 li {
