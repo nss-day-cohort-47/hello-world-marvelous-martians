@@ -1,0 +1,26 @@
+.container {
+display: flex;
+
+
+}
+.nepalList{
+border-style: solid;
+padding: 5px;
+
+
+}
+#landmarks{
+    background-image: url(../images/everest2.jpg);
+    background-size: cover;
+    
+ 
+
+}
+#nepalCities{
+    background-image: url(../images/nepalcity.jpg);
+    background-size: cover;
+}
+#nepalCitizens{
+    background-image: url(../images/bhudda.jpg);
+    background-size: cover;
+}
