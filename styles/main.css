@@ -32,6 +32,11 @@
   margin-bottom: auto;
 }
 
+.body {
+  background-color: darkslategray;
+  color: white;
+}
+
 .footerBox {
   background-color: darkgray;
   color: black;
