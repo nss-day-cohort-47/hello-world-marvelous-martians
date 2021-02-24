@@ -1,17 +1,19 @@
 .home {
     display: flex;
-    width: 400px;
-    flex-direction: row-reverse;
-    align-items: center;
+    width: 100%;
     justify-content: space-between;
+    /* flex-direction: row-reverse; */
+    align-items: center;
 }
 
+/* .home >div { 
+    flex-basis: 33%;
+} */
+
 .logo {
-    display: flex;
+    /* display: flex; */
     width: 250px;
-    flex-direction: row-reverse;
-    align-items: center;
-    justify-content: space-between;
+    /* align-items: center; */
     mix-blend-mode: multiply;
 }
 
