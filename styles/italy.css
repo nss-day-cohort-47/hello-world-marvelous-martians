@@ -1,0 +1,46 @@
+.home {
+    display: flex;
+    width: 100%;
+    /* flex-direction: row-reverse; */
+    align-items: center;
+    justify-content: center;
+}
+
+/* .home >div { 
+    flex-basis: 33%;
+} */
+
+.logo {
+    /* display: flex; */
+    width: 250px;
+    /* align-items: center; */
+    mix-blend-mode: multiply;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-style: solid;
+}
+
+.cityList {
+    border-style: solid;
+    margin: 10px;
+    background-image: url(../images/italy-images/rome.jpg);
+    background-size: cover;
+}
+
+.landmarksList {
+    border-style: solid;
+    margin: 10px;
+    background-image: url(../images/italy-images/colosseum.jpg);
+    background-size: cover;
+}
+
+.famousPeople {
+    border-style: solid;
+    margin: 10px;
+    background-image: url(../images/italy-images/leonardo.jpg);
+    background-size: cover;
+}
