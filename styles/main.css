@@ -29,11 +29,7 @@
 
 .active {
   background-color: #e4726c;
-}
-
-body {
-  background-color: darkslategray;
-  color: white;
+  margin-bottom: auto;
 }
 
 .footerBox {
@@ -73,4 +69,13 @@ img {
 div.container {
   text-align: center;
   padding: 10px 20px;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: 0;
+  width: 250px;
+  height: fill;
+  mix-blend-mode: multiply;
 }
