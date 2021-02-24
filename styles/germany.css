@@ -1,0 +1,53 @@
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: 0;
+  width: 250px;
+  height: fill;
+  mix-blend-mode: multiply;
+}
+
+.main {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  margin: 1em;
+}
+
+.cityList {
+  display: flex;
+  border: solid 5px white;
+  flex-wrap: wrap;
+  margin: .5em;
+}
+
+.city {
+  justify-content: center;
+}
+
+.container {
+  text-align: center;
+}
+
+.landmarkList {
+  display: flex;
+  border: solid 5px white;
+  flex-wrap: wrap;
+  margin: .5em;
+}
+
+.citizenList {
+  display: flex;
+  border: solid 5px white;
+  flex-wrap: wrap;
+  margin: .5em;
+}
+
+.titleImg {
+  width: 80%;
+  padding-left: 10%
+}
+
+.home {
+  margin: .5%;
+}
