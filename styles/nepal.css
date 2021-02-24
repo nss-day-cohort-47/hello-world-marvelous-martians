@@ -10,17 +10,25 @@ padding: 5px;
 
 }
 #landmarks{
-    background-image: url(../images/everest2.jpg);
+    background-image: url(../images/nepal-images/everest2.jpg);
     background-size: cover;
     
  
 
 }
 #nepalCities{
-    background-image: url(../images/nepalcity.jpg);
+    background-image: url(../images/nepal-images/nepalcity.jpg);
     background-size: cover;
 }
 #nepalCitizens{
-    background-image: url(../images/bhudda.jpg);
+    background-image: url(../images/nepal-images/bhudda.jpg);
     background-size: cover;
 }
+.nepalScenery{
+display: block;
+margin-left: auto;
+margin-right: auto;
+    width: 80%;
+    image-rendering: -webkit-optimize-contrast;
+}
+
