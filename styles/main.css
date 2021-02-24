@@ -30,6 +30,7 @@
 
   .active {
       background-color: #E4726C;
+      overflow: hidden;
   }
 
   body {
